@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nguyen Ba Linh
+- 👀 I’m interested in Music, Movie 
+- 🌱 I’m currently learning Software Engineering
+- 📫 How to reach me: nguyenbalinhtaplamdev@gmail.com
